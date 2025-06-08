@@ -1,0 +1,9 @@
+streamlit>=1.33
+faiss-cpu>=1.8         # libgomp is installed in the Dockerfile
+sentence-transformers>=2.6
+pillow
+requests
+openai           # for GPT-models
+watchdog
+python-dotenv
+tiktoken

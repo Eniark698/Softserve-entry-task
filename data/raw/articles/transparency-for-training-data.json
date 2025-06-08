@@ -1,0 +1,6 @@
+{
+  "title": "Transparency for Training Data",
+  "url": "https://www.deeplearning.ai/the-batch/transparency-for-training-data/",
+  "text": "AI is only as good as the data it trains on, but there’s no easy way to assess training data’s quality and character. Researchers want to put that information into a standardized form.\nWhat’s new: Timnit Gebru, Jamie Morgenstern, Briana Vecchione, and others propose a spec sheet to accompany AI resources. They call it \"datasheets for datasets.\"\nHow it works: Anyone offering a data set, pre-trained model, or AI platform could fill out the proposed form describing:\nmotivation for generating the data\ncomposition of the data set\nmaintenance issues\nlegal and ethical issues\ndemographics and consent of any people involved\nWhy It matters: Data collected from the real world tends to embody real-world biases, leading AI to make biased predictions. And data sets that don’t represent real-world variety can lead to overfitting. A reliable description of what’s in the training data could help engineers avoid problems like these.\nBottom line: We live in a world of open APIs, pre-trained models, and off-the-shelf data sets. Users need to know what’s in them. Standardized spec sheets would give them a clearer view.\n\n\n",
+  "image_filename": "transparency-for-training-data.png"
+}

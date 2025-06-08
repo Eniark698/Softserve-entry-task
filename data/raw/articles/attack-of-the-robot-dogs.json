@@ -1,0 +1,6 @@
+{
+  "title": "Attack of the Robot Dogs",
+  "url": "https://www.deeplearning.ai/the-batch/attack-of-the-robot-dogs/",
+  "text": "Boston Dynamics' robot dog is straining at the leash. In a new promotional video , a pack of the mechanical canines pull a truck down a road like huskies mushing across the tundra. It's another jaw-dropping demo from one of the world's most ambitious robotics companies. What’s new: SpotMini, previously seen climbing stairs, opening doors, and twerking to \"Uptown Funk,\" is due to hit the market this year. No price has been announced.\nHow it works: Although SpotMini can operate autonomously, there's usually a human in the loop. The all-electric robot:\nWeighs 66 pounds\nCarries 31 pounds\nFeatures a grasping arm, 3D cameras, proprioceptive sensors, and a solid-state gyro\nWorks up to 90 minutes per battery charge\nBehind the news: Boston Dynamics’ previous owner, Alphabet, sold the company to SoftBank reportedly because it lacked commercial products. SpotMini will be its first. Smart take: Robotic control is advancing by leaps and bounds, but there's still a long road ahead. Machines this cool could inspire machine learning engineers to take it to the next level.\n\n\n",
+  "image_filename": "attack-of-the-robot-dogs.png"
+}
